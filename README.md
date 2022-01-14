@@ -1,2 +1,2 @@
 # MinimalApiJwt
- Minimal Api with Jason Web Token
+ Minimal Api with Json Web Token
